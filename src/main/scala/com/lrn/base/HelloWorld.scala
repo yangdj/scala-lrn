@@ -1,4 +1,4 @@
-package helloworld
+package com.lrn.base
 
 object HelloWorld {
     def  main(args: Array[String]) {
