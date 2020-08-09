@@ -7,5 +7,5 @@ object HelloWorld {
 
     def hello() = "Hello, world!"
 
-    def cube(x: Int) = x * x * x
+    def cube(x: Int): Int= x * x * x
 }
